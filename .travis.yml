@@ -8,6 +8,10 @@ services:
 
 language: generic
 
+arch:
+    - amd64
+    - arm64
+
 git:
   quiet: true
 
